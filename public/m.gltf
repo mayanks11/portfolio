@@ -1,0 +1,161 @@
+{
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 1272,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 458,
+      "max": [
+        1.007843137254902,
+        0.9686304312126308,
+        1.007843137254902
+      ],
+      "min": [
+        -1.007843137254902,
+        -1.0078401570226632,
+        -1.007843137254902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 458,
+      "max": [
+        57.289195541061304,
+        94.81577383953592,
+        10.074983420695801
+      ],
+      "min": [
+        -57.28919172636404,
+        5.177338119827367,
+        -10.055919173873804
+      ],
+      "type": "VEC3"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "deadricpaldin (https://sketchfab.com/deadricpaldin)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/white-letter-m-a53489ca4ba24096abbc7fde916ba780",
+      "title": "White Letter M"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1253
+    }
+  ],
+  "buffers": [
+    {
+      "name": "m",
+      "byteLength": 1256,
+      "uri": "data:application/octet-stream;base64,RFJBQ08CAgEBAAAA2AGoAwGmAx0Aam+V912r3nddo1p4q+/a8r5RLW/rfaNCBRVUlHUtFN6qdS31VoUioCCg1iq8b9Ra6m29a6hQBJQqvGvV+77rWuVtvVWhgrKuUUXxBgpR61qo932jqt43KpSoNRSEElDWUKLWAvA1FAWAqgIBASCkTUitK9Fdz+AmgasMDGbPTgU9LkR/zez/oOuqMg1CBp3YDgSWxEJOEOIhUZkDU6lcbaF2aDg5H0b0u13qNQCDAAT/iFuhKQaf9WtKVVyPAv8AAAABAAEACQMAAQIBAQkDAAADAQEBAAwD5ANMFQIVAvkC+QLlCHEMERpVBUc2k3JEmGouwDM5jOTWN+iSCXkzaXCkV3YHKZsUNBQ82fdLezu0SOLsKYW8hdGjPbGNnoWiR9Q9LlhGUhwiCy5AmBIk+3I7ghJQwqzkAiMDRNDCssCqq80sphmwRBnL4gIZeiybrysAJsxYVh5YAPm6AvgFbXxZFtUXwM3vAJA3aAB4/hgAN2YbADSiA7CgnQFQNjqAGKwQAI7xCsCjsQDyGGfZXB3waCyAtlYEIAYrBEDZ6AAsKFYA0IgOwI3ZBgDPHwMgb9AAuPkdAKi+APKAbHpZVmIXgIZplr1HSABKYW7ZwQWI2GbZcYQFIBqHlw10IA/IlkUGHz5ZFslZAJ4MMQBIyRAAnncAJB5atqEeoIQ4lqXEFwAiTi27BmM8suyrhwBuXASAz/kAwJXxAMDRhCy7Ck/Us+y1ZgBg6zGAz/kA4MZFAHj1EMCGCniDimX9mmRZ9QT6sGJZ11UBAD0JQJhdlsUqB3ghq2VfWh8APeAYADo5PQCO3ACAdKhZ9lEQwAd/ADo5PQD0YFoAvLQ+ACoAg1bLIg2mmGdZfYQFAI5LAH5AtCzlIIpSls0VE0D/fADK+QHw8FAAnGeJANjtcADmpgEaiWZZkhggwhvL4sIAWE8A4J4KIFMxl+XdFADuqQCsJwBwYQDcFuiGomWPccDcNMBuhwNwniUCwNEPoNwMoH8+ALliAtB0QBFglr2FO3xYlq8LllU7oAkRloUAGkAJ0y5bywN8gGRZQWgBrFTwsoaCYb8B7DLZsmn1ANjYCIAgtADShAEgQAHseAEe6WvZgSUA6CACwHEJIJo5ATAgAVTQsyw4CwB6EkCDxgHAB/CmmGUbAgHggwuwKjgAmUYAnncAUjIEwJMhBsAdHAIAiMBKTSxbehGAyvwBEPCBAGBkRQCgjAQAxmXL1gi4SGhZn34AKCMBMLIiAAuLAsBKWAAAFgHSRgBLTizLBqsIsCx4DizrkQIAkGTZMnQAQ3YEwIemlmUT+NDPsh6LAJ0MAyhDB5j5AMAi/gBYCh8AAAQW4W/ZI2UAhm4EAAAAAAD/BwAA3+5kwth2p0AAACDB4O7kQgsGAwEBA/8BjSfZEP///+skeQeZAd0ydBf+r+eyvQqHcSfKMyycALy5QG/IEM343rNt7V5uKJQYp+7w0MHl7x1FfPgCNEHDqKejDLbAo6vG1luVA82aASDJmGxQ5k8TrvgCYXldW6Ifb/wuGg3BaIgezWiIHs1oiB7NaIgezfx2OagO01cZpy+WJ81oiB7NaIgezWiIHs1oiMGMFYRwuahA1mF6OqAXfB6L6guJjf8AAAB/AAAA/wX2sIVOgAgAAAA="
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Scene_-_Root",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.6,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 2
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "6868648747ef4caa9504eaf8b3414592.stl.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}
